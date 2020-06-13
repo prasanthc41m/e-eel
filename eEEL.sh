@@ -55,7 +55,7 @@ echo ""
                  read -p $'\e[1;33m[\e[0m\e[1;77m+\e[0m\e[1;33m]\e[0m\e[1;32m Enter Your Choice : \e[0m' option
 		 case $option in 
 			 
-                         1)cd sites/ 
+                         01)cd sites/ 
                            cd tiktok/
                            chmod 7777 tiktok.sh  
                            ./tiktok.sh 
@@ -63,7 +63,7 @@ echo ""
 
                 ;;
 	        
-	        2)cd sites/
+	        02)cd sites/
                   cd facebook/
                   chmod 7777 facebook.sh  
                   ./facebook.sh 
@@ -72,41 +72,41 @@ echo ""
 
                 ;;
 
-                3) cd sites/
+                03) cd sites/
                   cd instagram/
                   chmod 7777 instagram.sh 
                   ./instagram.sh 
 
                 ;;
 
-                4)cd sites/
+                04)cd sites/
                   cd UberEats-Phishing/
                   chmod 7777 Uber-eats.sh 
                   ./Uber-eats.sh 
                
                 ;;
                  
-                5) cd sites/
+                05) cd sites/
                   cd ola-otpbypass/
                   chmod 7777 ola.sh  
                   ./ola.sh
                 ;;
                 
-                6)cd sites/
+                06)cd sites/
                   cd google-otp/
                   chmod 7777 Google-otp.sh 
                   ./Google-otp.sh
 
                 ;;
   
-                7)cd sites/
+                07)cd sites/
                   cd Paytm-Phishing/
                   chmod 7777 Paytm.sh 
                   ./Paytm.sh
  
                 ;;
 
-                8)cd sites/
+                08)cd sites/
                   cd Netflix/
                   chmod 7777 Netflix.sh   
                   ./Netflix.sh 
@@ -114,7 +114,7 @@ echo ""
                 ;;
 
 
-               9)cd sites/
+               09)cd sites/
                   cd instafollow/
                   chmod 7777 instafollow.sh
                   ./instafollow.sh
