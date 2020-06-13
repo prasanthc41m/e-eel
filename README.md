@@ -3,7 +3,7 @@
     cd AdvPhishing/
     chmod 777 start.sh
     ./start.sh
-    ./An-AdvPhishing.sh
+    ./An-eEEL.sh
 
 # INSTALLATION [ KALI ]
 
@@ -11,7 +11,7 @@
     cd AdvPhishing/
     chmod 777 setup.sh
     ./setup.sh
-    ./AdvPhishing.sh
+    ./eEEL.sh
 
 ## AVAILABLE TUNNELLING OPTIONS
 
