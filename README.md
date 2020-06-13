@@ -1,6 +1,6 @@
 # INSTALLATION [ TERMUX APP --ANDROID ]
     git clone https://github.com/prasanthc41m/e-eel.git
-    cd AdvPhishing/
+    cd e-eel/
     chmod 777 start.sh
     ./start.sh
     ./An-eEEL.sh
@@ -8,7 +8,7 @@
 # INSTALLATION [ KALI ]
 
     git clone https://github.com/prasanthc41m/e-eel.git
-    cd AdvPhishing/
+    cd e-eel/
     chmod 777 setup.sh
     ./setup.sh
     ./eEEL.sh
