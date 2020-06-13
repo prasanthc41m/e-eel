@@ -1,11 +1,11 @@
-INSTALLATION [ TERMUX APP --ANDROID ]
+# INSTALLATION [ TERMUX APP --ANDROID ]
     git clone https://github.com/prasanthc41m/e-eel.git
     cd AdvPhishing/
     chmod 777 start.sh
     ./start.sh
     ./An-AdvPhishing.sh
 
-INSTALLATION [ KALI ]
+# INSTALLATION [ KALI ]
 
     git clone https://github.com/prasanthc41m/e-eel.git
     cd AdvPhishing/
@@ -13,12 +13,12 @@ INSTALLATION [ KALI ]
     ./setup.sh
     ./AdvPhishing.sh
 
-AVAILABLE TUNNELLING OPTIONS
+## AVAILABLE TUNNELLING OPTIONS
 
     LOCALHOST
     NGROK (https://ngrok.com/)
 
-TESTED ON FOLLOWING:-
+## TESTED ON FOLLOWING:-
 
     Kali Linux - 2020.1a (version)
     Parrot OS - Rolling Edition (version)
@@ -26,7 +26,7 @@ TESTED ON FOLLOWING:-
     Arch Linux
     Termux App
 
-PREREQUISITES
+## PREREQUISITES
 
     sudo - [ MUST ]
     php
@@ -34,15 +34,15 @@ PREREQUISITES
 
     ngrok Token
 
-LANGUAGE
+## LANGUAGE
 
     Bash Script
 
-Contact For Contribute & Issues
+## Contact For Contribute & Issues
 
                                   EMAIL FOR ISSUES AND CONTRIBUTE : sg5479845@gmail.com
 
-DISCLAIMER
+## DISCLAIMER
 
                                    TO BE USED FOR EDUCATIONAL PURPOSES ONLY
 
