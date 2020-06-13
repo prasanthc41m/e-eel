@@ -20,7 +20,7 @@ apt install curl -y
 apt install zip -y
 pkg install wget -y
 clear
-#wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
+wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
 unzip ngrok-stable-linux-arm.zip
 cp -R ngrok sites/github/
 cp -R ngrok sites/Hotstar-otp-bypass/
