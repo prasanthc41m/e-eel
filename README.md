@@ -43,10 +43,6 @@
 
     Bash Script
 
-## Contact For Contribute & Issues
-
-                                  EMAIL FOR ISSUES AND CONTRIBUTE : sg5479845@gmail.com
-
 ## DISCLAIMER
 
                                    TO BE USED FOR EDUCATIONAL PURPOSES ONLY
