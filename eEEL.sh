@@ -3,7 +3,7 @@ clear
 echo ""
 echo ""
 echo ""
-read -p $'\e[1;32m\e[0m\e[1;32mT H I S - T O O L - F O R - E D U C A T I O N A l - P U R P O S E S - O N L Y ? \e[1;33m\e[0m\e[1;33m (Y/N) : \e[0m' option
+read -p $'\e[1;32m\e[0m\e[1;32mWith-great-knowledge-comes-great-responsibility\e[1;33m\e[0m\e[1;33m (Y/N) : \e[0m' option
 echo""
 echo""
 echo""
@@ -27,7 +27,7 @@ clear
 chmod 777 Logo.sh
 ./Logo.sh
 echo ""
-echo -e $'\e[1;32m\e[0m\e[1;32m SELECT ANY ATTACK  \e[0m'
+echo -e $'\e[1;32m\e[0m\e[1;32m SELECT ANY ATTACK for example 01 \e[0m'
 echo -e $'\e[1;37m\e[0m\e[1;37m --------------------- > > >\e[0m'
 echo ""
 
