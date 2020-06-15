@@ -3,6 +3,9 @@
   <a><img title="Built With Love" href="https://github.com/prasanthc41m/e-eel/edit/master/README.md" src="https://c1.wallpaperflare.com/preview/322/194/434/moray-eel-fish-aquarium-moray.jpg" ></a>
  </p>
 
+# TECHNIQUE
+When victim enter his credentials, you need to go to original website and use those credentials to send real OTP to victim. Once he enter that OTP such OTP will also be there with you and you will be allowed to login the account before him.
+
 # INSTALLATION [ TERMUX APP --ANDROID ]
     git clone https://github.com/prasanthc41m/e-eel.git
     cd e-eel/
