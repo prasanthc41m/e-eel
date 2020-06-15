@@ -3,7 +3,7 @@ clear
 echo ""
 echo ""
 echo ""
-read -p $'\e[1;32m\e[0m\e[1;32mWith-great-knowledge-comes-great-responsibility\e[1;33m\e[0m\e[1;33m (Y/N) : \e[0m' option
+read -p $'\e[1;32m\e[0m\e[1;32mWith-great-knowledge-comes-great-responsibility,right?\e[1;33m\e[0m\e[1;33m (Y/N) : \e[0m' option
 echo""
 echo""
 echo""
