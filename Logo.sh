@@ -16,7 +16,7 @@ banner() {
   echo""    
   echo -e $'\e[1;34m\e[0m\e[1;34m     █████████\e[0m'"\e[97m██████████"'\e[1;31m\e[0m\e[1;31m██████████\e[0m' '\e[1;32m\e[0m\e[1;34m eHACKIFY\e[0m''\e[1;33m\e[0m\e[1;37m PHISHING TOOL \e[0m''\e[1;37m\e[0m\e[1;37m[v 2.0] \e[0m'                                       
   echo ""
-   echo -e $'\e[1;33m\e[0m\e[1;33m     [ \e[0m\e[1;32m Follow on Github :- https://github.com/ehackify/e-eel \e[0m \e[1;32m\e[0m\e[1;33m] \e[0m'
+   echo -e $'\e[1;33m\e[0m\e[1;33m     [ \e[0m\e[1;32m Follow on Github :- https://github.com/prasanthc41m/e-eel \e[0m \e[1;32m\e[0m\e[1;33m] \e[0m'
    echo ""
       echo -e $'\e[1;37m\e[0m\e[1;37m     << +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ >>\e[0m'
       echo -e "\e[93m          |A|D|V|A|N|C|E|D|  |P|H|I|S|H|I|N|G|  |T|O|O|L| |1|.|5|"      
