@@ -14,7 +14,7 @@ banner() {
  echo -e $'\e[1;33m\e[0m\e[1;34m     ██      \e[0m''\e[1;33m\e[0m\e[1;31m ██     ██     ██      \e[0m'
  echo -e $'\e[1;33m\e[0m\e[1;34m     ██████  \e[0m''\e[1;33m\e[0m\e[1;31m ██████ ██████ ██████  \e[0m'
   echo""    
-  echo -e $'\e[1;34m\e[0m\e[1;34m     █████████\e[0m'"\e[97m██████████"'\e[1;31m\e[0m\e[1;31m██████████\e[0m' '\e[1;32m\e[0m\e[1;34m eHACKIFY\e[0m''\e[1;33m\e[0m\e[1;37m PHISHING TOOL \e[0m''\e[1;37m\e[0m\e[1;37m[v 2.0] \e[0m'                                       
+  echo -e $'\e[1;34m\e[0m\e[1;34m     █████████\e[0m'"\e[97m██████████"'\e[1;31m\e[0m\e[1;31m██████████\e[0m' '\e[1;32m\e[0m\e[1;34m 45hbr0\e[0m''\e[1;33m\e[0m\e[1;37m PHISHING TOOL \e[0m''\e[1;37m\e[0m\e[1;37m[v 2.0] \e[0m'                                       
   echo ""
    echo -e $'\e[1;33m\e[0m\e[1;33m     [ \e[0m\e[1;32m With-great-knowledge-comes-great-responsibility \e[0m \e[1;32m\e[0m\e[1;33m] \e[0m'
    echo ""
