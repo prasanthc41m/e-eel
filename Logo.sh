@@ -18,9 +18,9 @@ banner() {
   echo ""
    echo -e $'\e[1;33m\e[0m\e[1;33m     [ \e[0m\e[1;32m With Great Knowledge Comes Great Responsibility \e[0m \e[1;32m\e[0m\e[1;33m] \e[0m'
    echo ""
-      echo -e $'\e[1;37m\e[0m\e[1;37m     << +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ >>\e[0m'
+      echo -e "\e[97m      << +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ >>\e[0m"
       echo -e "\e[94m              45hbr0 | c41m | d0t_slash | luserw "      
-      echo -e $'\e[1;37m\e[0m\e[1;37m     << +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ >>\e[0m' 
+      echo -e "\e[97m      << +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ >>\e[0m" 
       echo ""                                                
       }
       banner
