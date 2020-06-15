@@ -14,13 +14,13 @@ banner() {
  echo -e $'\e[1;33m\e[0m\e[1;34m     ██      \e[0m''\e[1;33m\e[0m\e[1;31m ██     ██     ██      \e[0m'
  echo -e $'\e[1;33m\e[0m\e[1;34m     ██████  \e[0m''\e[1;33m\e[0m\e[1;31m ██████ ██████ ██████  \e[0m'
   echo""    
-  echo -e $'\e[1;34m\e[0m\e[1;34m     █████████\e[0m'"\e[97m██████████"'\e[1;31m\e[0m\e[1;31m██████████\e[0m' '\e[1;32m\e[0m\e[1;34m 45hbr0|c41m\e[0m''\e[1;33m\e[0m\e[1;37m PHISHING TOOL \e[0m''\e[1;37m\e[0m\e[1;37m[v 2.0] \e[0m'                                       
+  echo -e $'\e[1;34m\e[0m\e[1;34m     ██████\e[0m'"\e[97m███"'\e[1;31m\e[0m\e[1;31m████████████████████\e[0m' '\e[1;32m\e[0m\e[1;34m \e[0m''\e[1;33m\e[0m\e[1;37m PHISHING TOOL \e[0m''\e[1;37m\e[0m\e[1;37m[v 1.5] \e[0m'                                       
   echo ""
-   echo -e $'\e[1;33m\e[0m\e[1;33m     [ \e[0m\e[1;32m With-great-knowledge-comes-great-responsibility \e[0m \e[1;32m\e[0m\e[1;33m] \e[0m'
+   echo -e $'\e[1;33m\e[0m\e[1;33m     [ \e[0m\e[1;32m With Great Knowledge Comes Great Responsibility \e[0m \e[1;32m\e[0m\e[1;33m] \e[0m'
    echo ""
-      echo -e $'\e[1;37m\e[0m\e[1;37m     << +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ >>\e[0m'
-      echo -e "\e[93m          |A|D|V|A|N|C|E|D|  |P|H|I|S|H|I|N|G|  |T|O|O|L| |1|.|5|"      
-      echo -e $'\e[1;37m\e[0m\e[1;37m     << +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ >>\e[0m' 
+      echo -e $'\e[1;37m\e[0m\e[1;37m     << +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ >>\e[0m'
+      echo -e "\e[94m          4 5 h b r 0 | c 4 1 m | d0t_slash | luserw "      
+      echo -e $'\e[1;37m\e[0m\e[1;37m     << +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ >>\e[0m' 
       echo ""                                                
       }
       banner
