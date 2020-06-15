@@ -1,5 +1,5 @@
 # eEEL (Advanced Phishing Tool v1.5)
-<p align="right">
+<p align="centre">
   <a><img title="Built With Love" src="https://github.com/prasanthc41m/e-eel/blob/master/eEEL.gif" ></a>
  </p>
 
