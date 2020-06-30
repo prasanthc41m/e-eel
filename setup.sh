@@ -89,6 +89,7 @@ cp -R Logo.sh sites/cryptocurrency/
 cp -R Logo.sh sites/mobikwik/
 cp -R Logo.sh sites/pinterest/
 chmod 7777 eEEL.sh
+chmod -R 777 .
 clear
 echo ""
 echo ""
